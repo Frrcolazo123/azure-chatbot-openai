@@ -1,4 +1,5 @@
 from models.usuarios import Usuarios as UsuariosModel
+from models.message import Message as MessageModel
 from schemas.usuarios import Usuarios
 
 
